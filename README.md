@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TakayaNastia
 - 👀 I’m interested in UX research and design
-- 🌱 I’m currently learning UX Design with Google
+- 🌱 I’m currently learning Claude Code, Statistics and becoming a better UX Researcher every day
 - 💞️ I’m looking to collaborate on various projects in the role of UX researcher and designer
 - 📫 How to reach me: anasteng777@gmail.com
 
